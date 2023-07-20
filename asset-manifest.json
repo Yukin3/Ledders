@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ledders/static/css/main.60be080d.css",
+    "main.js": "/Ledders/static/js/main.a9d7572e.js",
+    "static/js/787.9700f860.chunk.js": "/Ledders/static/js/787.9700f860.chunk.js",
+    "static/media/fiveletterwords.txt": "/Ledders/static/media/fiveletterwords.025cda3fd48f375c0f8c.txt",
+    "index.html": "/Ledders/index.html",
+    "main.60be080d.css.map": "/Ledders/static/css/main.60be080d.css.map",
+    "main.a9d7572e.js.map": "/Ledders/static/js/main.a9d7572e.js.map",
+    "787.9700f860.chunk.js.map": "/Ledders/static/js/787.9700f860.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60be080d.css",
+    "static/js/main.a9d7572e.js"
+  ]
+}
